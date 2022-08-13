@@ -1,6 +1,6 @@
-# Report-file
-## *Mail Guidelines*
-### Meaning full subject is mandatory
+
+# *Mail Guidelines*
+## Meaning full subject is mandatory
 - When ever we write a mail, it is necessary to give a subject first.By subject recevier knows the importants of the mail and get about the information present in the mail.
 ## Use a formal writing 
 Always write a mail in formal manner and never uses:
@@ -12,7 +12,14 @@ During reply to the mail, avoid to using ***top posting***.Always write your mai
 - There should not be over-quoting .It should have maximum quote upto 3.
 ## Trim your mails
 Make sure that your mail should not be lenghty and contained over content.
-- use <snip> or trim the mail.
+- use < snip >or trim the mail.
+## Do signature
+Always do signature at the end or bottom of mail.
+- For Automate the signature
+1. Go on setting on the top right.
+2. Go on the Signature section and write name(signature).
+3. Under **signature default** select the signature.
+4. At end click on the save changes.
 
 
 
