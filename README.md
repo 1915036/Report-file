@@ -1,5 +1,5 @@
 
-# *Mail Guidelines*
+# Mail Guidelines
 ## Meaning full subject is mandatory
 - When ever we write a mail, it is necessary to give a subject first.By subject recevier knows the importants of the mail and get about the information present in the mail.
 ## Use a formal writing 
